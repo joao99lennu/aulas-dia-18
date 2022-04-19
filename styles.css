@@ -1,0 +1,12 @@
+body{
+    font-family: serif;
+    display: flex;
+}
+
+header{
+    align-items: center;
+}
+
+li{
+    display:inline-block;
+}
